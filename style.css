@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #fbfbfb;
 }
 
 .container {
@@ -45,4 +46,43 @@ a {
 .icon {
     height: 120px;
     width: auto;
+}
+
+.info {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #111111;
+    margin: 0;
+    padding: 100px 40px 40px;
+
+}
+
+form {
+    background-color: #ffffff;
+}
+
+button {
+    background-color: #4f5c3d;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 40px 40px 20px;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin: 0px 40px;
+}
+
+a {
+    color: #4f5c3d;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;
 }
